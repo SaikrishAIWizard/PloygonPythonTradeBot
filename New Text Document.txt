@@ -1,0 +1,12 @@
+https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
+
+pip install virtualenv
+virtualenv -p python3.10 myenv
+
+python3.10 -m venv env
+
+
+source env/bin/activate    - env\Scripts\activate
+
+
+https://www.w3schools.com/django/django_install_django.php
