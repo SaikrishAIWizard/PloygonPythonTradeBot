@@ -1,4 +1,4 @@
-# Python Tradinbg Bot using Ploygon.io
+# Python Trading Bot using Ploygon.io
 
 ![Project Logo](https://topflightapps.com/wp-content/uploads/2022/03/crypto-trading-bot-concept.png)
 
